@@ -60,4 +60,5 @@ Bash
 cd dashboard
 pip install -r requirements.txt
 streamlit run oracle_dashboard.py
+
 Projet réalisé par l'équipe Ramazan Tanisik, Messaoud Zanouda, Bastian Guilloud - USMB 2026
