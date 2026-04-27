@@ -2,7 +2,7 @@
 
 Ce document présente l'analyse de fiabilité de l'IA **Oracle Météo** générée lors de la phase d'entraînement. Ces graphiques valident la précision du modèle avant son déploiement en `int8` sur la carte STM32.
 
-![Analyse de Fiabilité](Graphique_Model.jpg)
+![Analyse de Fiabilité](Graphique_Model.png)
 
 ### 🔍 Interprétation des résultats :
 
